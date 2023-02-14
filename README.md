@@ -1,4 +1,4 @@
-<h1 align="Left">Hi 👋, I'm Furkan ÇELİK</h1>
+<h1 align="Left">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Furkan ÇELİK</h1>
 <h3 align="Left">A passionate Game & Flutter & Web Developer from Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1YWI2ZDdiZWZlYzYyZjNkYjZkODNhM2M3OTdiMDYzZjRiYzk4ZiZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif">
 
