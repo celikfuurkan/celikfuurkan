@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="Left">Hi 👋, I'm Furkan ÇELİK</h1>
-<h3 align="Left">A passionate Game & Mobile & Web Developer from Turkey.</h3>
+<h3 align="Left">A passionate Game & Flutter & Web Developer from Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1YWI2ZDdiZWZlYzYyZjNkYjZkODNhM2M3OTdiMDYzZjRiYzk4ZiZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celikfuurkan&label=Profile%20views&color=0e75b6&style=flat" alt="celikfuurkan" /> </p>
